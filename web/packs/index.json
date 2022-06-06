@@ -1,6 +1,7 @@
 {
   "packs": [
-    "hinatastickers_by_stickersthiefbot.json"
+    "hinatastickers_by_stickersthiefbot.json",
+    "BenWongEmoji.json"
   ],
   "homeserver_url": "https://chat.eximua.dev"
 }
